@@ -62,8 +62,6 @@ select option:disabled {
 
 #result {
   width: 12vw;
-  display: flex;
-  align-items: center;
   padding-top: 1vh;
   display: flex;
   flex-direction: column;
